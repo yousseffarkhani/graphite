@@ -1,1 +1,1 @@
-# graphite
+This repo is created with Graphite!
